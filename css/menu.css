@@ -22,7 +22,7 @@
     background-color: white;
     border-radius: 100%;
     position: relative;
-    border: 2px solid blue;
+    border: 2px solid rgb(255, 0, 0);
 }
 
 .lineUp{
@@ -39,8 +39,21 @@
     position: absolute;
     right: 25px;
     font-size: 0.8em;
+    color: rgb(109, 11, 94);
+    font-weight: bold;
 }
 
 .timeline{
     margin-left: 5em;
+    
+
+}
+
+img{
+    border-radius: 20px;
+}
+
+.card-text{
+    /*position: absolute;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

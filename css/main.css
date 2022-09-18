@@ -7,5 +7,51 @@ html{
 }
 
 .programming-languages i{
-    font-size: 7em;
+    font-size: 6em;
+    /*background-color: rgba(238, 238, 238, 0.89);*/
+}
+
+body{
+    background-color:#F4F1BB;
+}
+
+.position-fixed{
+    background-color: #2CA1BC;
+}
+
+.card-body{
+    background-color: #e9a29f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list-group-item{
+    background-color: rgba(223, 207, 179, 0.89);
+    color: rgb(255, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    /*font-weight: bold;*/
+}
+
+.prom{
+    background-color: rgba(221, 218, 218, 0.89);
+}
+
+.text-decoration-none{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text-muted{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.m-3{
+    font-weight: bold;
+    color: blue;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.text-dark{
+    background-color: rgba(221, 218, 218, 0.89);
 }
